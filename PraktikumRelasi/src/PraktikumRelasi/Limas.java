@@ -5,7 +5,7 @@ package PraktikumRelasi;
  * @author YudaPratam
  */
 public class Limas {
-    private SgtSamaSisi sgtSamaSisi;
+  private SgtSamaSisi sgtSamaSisi;
   private Persegi persegi;
 
   public Limas(double Sx1, double Sy1, double Sx2, double Sy2, double Px1, double Py1, double Px2, double Py2) {
@@ -29,4 +29,4 @@ public class Limas {
     System.out.println("Luas Limas\t\t: " + hitungLuas());
   }
 
-    }
+}
